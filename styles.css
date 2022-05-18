@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+.opening {
+    background-color: #BE8A84;
+}
+
+.choice {
+    background-color: #AC7C72;
+    display: none;
+}
+
+.middle {
+    background-color: #A4A174;
+    display:none;
+}
+
+.end {
+    background-color: #E8B08C;
+    display: none;
+}
+
+p {
+    font-family: 'Shizuru', cursive;
+}
+
+h1 {
+    font-family: 'Rowdies', cursive;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.beypic{
+	width: 200px;
+    height: 200px;
+}
+
+div{
+	margin: 10px;
+}
